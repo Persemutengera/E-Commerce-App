@@ -228,6 +228,7 @@ POST	/api/cart/get	Get User Cart
 ---
 
 #  Orders
+
 Method	Endpoint	Description
 ---
 POST	/api/order/place	Cash on Delivery
@@ -310,25 +311,30 @@ Features include:
 
   ##  Screenshots
 
-  ## Home page
+  ## 🏠 Home page
 
-  ![enter image description here](https://1drv.ms/i/c/5fbc107da0220c28/IQBc2-qAXcQqR5kSHR-0H5csAZD3POm2VCpElP64_Gapbio?e=Bxt1uU)
+  ![Home Page]<img width="1901" height="882" alt="Screenshot 2026-07-09 121202" src="https://github.com/user-attachments/assets/09e6440c-43d4-4cf8-8c29-b1f569b3d0df" />
+
 
   ---
 
-  ## Product Page
-  ![enter image description here](https://1drv.ms/i/c/5fbc107da0220c28/IQAPZwZ5sosSTrhtF5mLH8VcAYiyyBstcUR5ZZuTuGCW1r0?e=21V10e)
+  ## 🛍️Product Page
+
+  ![Product Page]<img width="1908" height="907" alt="Screenshot 2026-07-09 121519" src="https://github.com/user-attachments/assets/cb7bd36e-9d6f-477a-bee4-ad7d30172de8" />
+
 
     ---
-  ## Checkout page 
+  ## 💳 Checkout page 
 
-  ![enter image description here](https://1drv.ms/i/c/5fbc107da0220c28/IQA8eDNa8AkjRK4zq0ECXkEpAe7fA6B-V0-Y67qk7KW8d08?e=jBwsdC)
+  ![Checkout Page]<img width="1902" height="900" alt="Screenshot 2026-07-09 121644" src="https://github.com/user-attachments/assets/9dc39671-f173-42f2-9be2-f62506f62971" />
+
 
   ---
 
-## Admin Panel Page
+## ⚙️ Admin Panel Page
 
-![enter image description here](https://1drv.ms/i/c/5fbc107da0220c28/IQAqkA6eoMvdQbBgf5NuSMXgAeiqJQ0YP3CJM2HEHzVXm6k?e=m4N4gC)
+![Admin Panel]<img width="1887" height="882" alt="Screenshot 2026-07-09 122239" src="https://github.com/user-attachments/assets/01a8956f-b71b-4778-9663-d1c9411919df" />
+
 
 ---
 
